@@ -33,8 +33,9 @@ Ben Atakan Demirel Yazılım Mühendisliği öğrencisiyim.
 # 📜 Sertifikalar
 - [PatikaDev Başlangıç Seviye Java ile Backend Web Development Sertifikası](https://academy.patika.dev/certificates/8sPRVbcP)  
 - [PatikaDev Başlangıç Seviye Frontend Web Development Sertifikası](https://academy.patika.dev/certificates/ZY1euajZ)  
-- [BTK Akademi ASP.NET Core MVC Eğitim Sertifikası]  
-- [Turkcell Pentesting Sertifikası](https://gelecegiyazanlar.turkcell.com.tr/kisi/sertifika/pentesting)  
+- BTK Akademi ASP.NET Core MVC Eğitim Sertifikası
+- BTK Akademi Nesne Yönelimli Proglamlama Eğitim Sertifikası 
+- [Turkcell Pentesting Eğitim Sertifikası](https://gelecegiyazanlar.turkcell.com.tr/kisi/sertifika/pentesting)  
 
 ---
 
