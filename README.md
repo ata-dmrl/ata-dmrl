@@ -24,19 +24,17 @@
 
 # 👨‍💻 Hakkımda
 Ben Atakan Demirel, Samsun Üniversitesi’nde Yazılım Mühendisliği öğrencisiyim.  
-- 🚀 UAV projelerinde yazılım liderliği yapıyorum.  
-- 🔐 Siber güvenlik kulübünde aktif üyeyim.  
+- 🚀 UAV projelerinde yazılım geliştiriciliği yapıyorum.    
 - 🎯 Gerçek zamanlı görüntü işleme ve donanım entegrasyonu üzerine çalışıyorum.  
-- 📚 İlgi alanlarım: algoritmalar, veri yapıları, ağ programlama, yapay zeka.  
+- 📚 İlgi alanlarım: veri yapıları, ağ programlama, yapay zeka, katmanlı mimari, gömülü sistemler.  
 
 ---
 
 # 📜 Sertifikalar
-- [ ] **Python ile Veri Analizi** – (Udemy / Coursera vb.)  
-- [ ] **Siber Güvenlik Temelleri** – (Cisco / TryHackMe vb.)  
-- [ ] **Makine Öğrenmesi** – (Google AI / Kaggle vb.)  
-
-*(Buraya aldığın sertifikaları ekleyebilirsin, şimdilik placeholder olarak bıraktım.)*
+- ![PatikaDev Başlangıç Seviye Java ile Backend Web Development Sertifikası](https://academy.patika.dev/certificates/8sPRVbcP)  
+- ![PatikaDev Başlangıç Seviye Frontend Web Development Sertifikası](https://academy.patika.dev/certificates/ZY1euajZ)  
+- ![BTK Akademi ASP.NET Core MVC Eğitim Sertifikası] ()  
+- ![Turkcell Pentesting Sertifikası](https://gelecegiyazanlar.turkcell.com.tr/kisi/sertifika/pentesting)  
 
 ---
 
