@@ -23,7 +23,7 @@
 ---
 
 # 👨‍💻 Hakkımda
-Ben Atakan Demirel, Samsun Üniversitesi’nde Yazılım Mühendisliği öğrencisiyim.  
+Ben Atakan Demirel Yazılım Mühendisliği öğrencisiyim.  
 - 🚀 UAV projelerinde yazılım geliştiriciliği yapıyorum.    
 - 🎯 Gerçek zamanlı görüntü işleme ve donanım entegrasyonu üzerine çalışıyorum.  
 - 📚 İlgi alanlarım: veri yapıları, ağ programlama, yapay zeka, katmanlı mimari, gömülü sistemler.  
