@@ -55,3 +55,4 @@ Ben Atakan Demirel Yazılım Mühendisliği öğrencisiyim.
   <img src="https://streak-stats.demolab.com/?user=ata-dmrl&theme=dark&hide_border=false" />
 </p>
 
+![Snake animation dark](https://raw.githubusercontent.com/ata-dmrl/ata-dmrl/output/github-contribution-grid-snake-dark.svg)
