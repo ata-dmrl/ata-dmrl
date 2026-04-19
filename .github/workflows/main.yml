@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4   # güncel sürüm
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -19,8 +19,8 @@ jobs:
           github_user_name: ata-dmrl
           outputs: dist/snake.svg
 
-      - name: Push Snake to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4   # güncel sürüm
         with:
           target_branch: output
           build_dir: dist
