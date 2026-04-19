@@ -55,6 +55,3 @@ Ben Atakan Demirel Yazılım Mühendisliği öğrencisiyim.
   <img src="https://streak-stats.demolab.com/?user=ata-dmrl&theme=dark&hide_border=false" />
 </p>
 
----
-
-[![](https://komarev.com/ghpvc/?username=ata-dmrl&icon=0&color=8)](https://visitcount.itsvg.in)
