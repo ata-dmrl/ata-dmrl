@@ -31,7 +31,7 @@ Ben Atakan Demirel Yazılım Mühendisliği öğrencisiyim.
 ---
 
 # 📜 Sertifikalar
- ## Eğitim
+  ## 📗 Eğitim
 - [PatikaDev Başlangıç Seviye Java ile Backend Web Development Sertifikası](https://academy.patika.dev/certificates/8sPRVbcP)  
 - [PatikaDev Başlangıç Seviye Frontend Web Development Sertifikası](https://academy.patika.dev/certificates/ZY1euajZ)  
 - [BTK Akademi Nesne Yönelimli Proglamlama Eğitim Sertifikası](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/Uygulamalarla_Nesne_Y%C3%B6nelimli_Programlama_Sertifika.png) 
