@@ -31,7 +31,7 @@ Ben Atakan Demirel Yazılım Mühendisliği öğrencisiyim.
 ---
 
 # 📜 Sertifikalar
-  ##📗 Eğitim
+##📗 Eğitim
 - [PatikaDev Başlangıç Seviye Java ile Backend Web Development Sertifikası](https://academy.patika.dev/certificates/8sPRVbcP)  
 - [PatikaDev Başlangıç Seviye Frontend Web Development Sertifikası](https://academy.patika.dev/certificates/ZY1euajZ)  
 - [BTK Akademi ASP.NET Core MVC Eğitim Sertifikası](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/ASP.NET_Core_MVC_Sertifika.png)
@@ -39,7 +39,7 @@ Ben Atakan Demirel Yazılım Mühendisliği öğrencisiyim.
 - [Turkcell Pentesting Eğitim Sertifikası](https://gelecegiyazanlar.turkcell.com.tr/kisi/sertifika/pentesting)
 - [BTK Python Programlama Dili Sertifika](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/Python_Programlama_Dili_Sertifika.png)
 
-  ##🎮 Etkinlik
+##🎮 Etkinlik
 - [BTK Python İle Zafiyet Analiz Atölyesi](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/Python_ile_Zaafiyet_Analizi_At%C3%B6lyesi_Sertifika.png)  
 - [TUA Astro Hackathon](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/TUA_Hackathon.png)  
 - [BTK Yapay Zeka Destekli Görüntü İşleme Kariyer Atölyesi Sertifika](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/Yapay_Zeka_Destekli_G%C3%B6r%C3%BCnt%C3%BC_%C4%B0%C5%9Fleme_Kariyer_At%C3%B6lyesi__Sertifika.png)  
