@@ -34,10 +34,10 @@ Ben Atakan Demirel Yazılım Mühendisliği öğrencisiyim.
  ## Eğitim
 - [PatikaDev Başlangıç Seviye Java ile Backend Web Development Sertifikası](https://academy.patika.dev/certificates/8sPRVbcP)  
 - [PatikaDev Başlangıç Seviye Frontend Web Development Sertifikası](https://academy.patika.dev/certificates/ZY1euajZ)  
-- [BTK Akademi ASP.NET Core MVC Eğitim Sertifikası](hhttps://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/ASP.NET_Core_MVC_Sertifika.png)
 - [BTK Akademi Nesne Yönelimli Proglamlama Eğitim Sertifikası](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/Uygulamalarla_Nesne_Y%C3%B6nelimli_Programlama_Sertifika.png) 
 - [Turkcell Pentesting Eğitim Sertifikası](https://gelecegiyazanlar.turkcell.com.tr/kisi/sertifika/pentesting)
-- [Python Programlama Dili Sertifika](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/Python_Programlama_Dili_Sertifika.png)
+- [BTK Python Programlama Dili Sertifika](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/Python_Programlama_Dili_Sertifika.png)
+- [BTK Akademi ASP.NET Core MVC Eğitim Sertifikası](hhttps://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/ASP.NET_Core_MVC_Sertifika.png)
 
   ## 🎮 Etkinlik
 - [BTK Python İle Zafiyet Analiz Atölyesi](https://github.com/ata-dmrl/ata-dmrl/blob/main/Sertifika/Python_ile_Zaafiyet_Analizi_At%C3%B6lyesi_Sertifika.png)  
